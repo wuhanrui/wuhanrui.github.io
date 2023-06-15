@@ -2,7 +2,7 @@
 title: "Towards Accurate Facial Motion Retargeting with Identity-Consistent and Expression-Exclusive Constraints"
 collection: conferences
 permalink: /publication/Towards_Accurate_Facial
-date: 2020-10-12
+date: 2022-10-12
 year: "2022"
 venue: "AAAI"
 city: 

@@ -2,7 +2,7 @@
 title: "Intra- and Inter-Slice Contrastive Learning for Point Supervised OCT Fluid Segmentation"
 collection:  journals
 permalink: /publication/Intra
-date: 2020-01-28
+date: 2022-01-28
 year: "2022"
 venue: "IEEE Trans. Image Process."
 city: 

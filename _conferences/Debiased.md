@@ -1,17 +1,17 @@
 ---
-title: "Cascade Reasoning Network for Text-based Visual Question Answering"
+title: "Debiased Visual Question Answering from Feature and Sample Perspectives"
 collection: conferences
-permalink: /publication/Cascade
-date: 2020-10-12
-year: "2020"
-venue: "ACM MM"
+permalink: /publication/Debiased
+date: 2021-10-12
+year: "2021"
+venue: "NeurIPS"
 city: 
 state: ""
-thumbnail: "Cascade.png"
+thumbnail: "Debiased.png"
 teaser :
-authors: "Fen Liu, Guanghui Xu, Qi Wu, Qing Du, Wei Jia, Mingkui Tan"
-bibtex: Cascade.txt
-uri: Cascade.pdf
+authors: "Zhiquan Wen, Guanghui Xu, Mingkui Tan, Qingyao Wu, Qi Wu"
+bibtex: Debiased.txt
+uri: Debiased.pdf
 arxiv: 
 project: 
 source: 

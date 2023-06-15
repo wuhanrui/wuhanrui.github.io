@@ -2,7 +2,7 @@
 title: "Self-Unwrapping Phase-Shifting for Fast and Accurate 3-D Shape Measurement"
 collection:  journals
 permalink: /publication/Self-Unwrapping
-date: 2020-01-28
+date: 2022-01-28
 year: "2022"
 venue: "IEEE Trans. Instrum. Meas."
 city: 

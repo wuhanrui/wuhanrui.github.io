@@ -2,7 +2,7 @@
 title: "Digital Gonioscopy Based on Three-dimensional Anterior-Segment OCT: An International Multicenter Study"
 collection:  journals
 permalink: /publication/Digital
-date: 2020-01-28
+date: 2022-01-28
 year: "2022"
 venue: "Ophthalmology"
 city: 

@@ -2,7 +2,7 @@
 title: "Multi-scale Multi-target Domain Adaptation for Angle Closure Classification"
 collection: conferences
 permalink: /publication/Multi-scale
-date: 2020-10-12
+date: 2022-10-12
 year: "2022"
 venue: "PRCV"
 city: 

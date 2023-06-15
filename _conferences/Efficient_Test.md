@@ -2,7 +2,7 @@
 title: "Efficient Test-Time Model Adaptation without Forgetting"
 collection: conferences
 permalink: /publication/Efficient_Test
-date: 2020-10-12
+date: 2022-10-12
 year: "2022"
 venue: "ICML"
 city: 

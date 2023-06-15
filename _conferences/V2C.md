@@ -2,7 +2,7 @@
 title: "V2C: Visual Voice Cloning"
 collection: conferences
 permalink: /publication/V2C
-date: 2020-10-12
+date: 2022-10-12
 year: "2022"
 venue: "CVPR"
 city: 

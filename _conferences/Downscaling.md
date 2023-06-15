@@ -2,7 +2,7 @@
 title: "Downscaling and Overflow-aware Model Compression for Efficient Vision Processors"
 collection: conferences
 permalink: /publication/Downscaling
-date: 2020-10-12
+date: 2022-10-12
 year: "2022"
 venue: "ICDCS"
 city: 

@@ -2,7 +2,7 @@
 title: "DAS: Densely-Anchored Sampling for Deep Metric Learning"
 collection: conferences
 permalink: /publication/DAS
-date: 2020-10-12
+date: 2022-10-12
 year: "2022"
 venue: "ECCV"
 city: 

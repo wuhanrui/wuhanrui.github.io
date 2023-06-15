@@ -2,7 +2,7 @@
 title: "Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation"
 collection: conferences
 permalink: /publication/Prototype
-date: 2020-10-12
+date: 2022-10-12
 year: "2022"
 venue: "ECCV"
 city: 

@@ -2,7 +2,7 @@
 title: "Diversified branch fusion for self-knowledge distillation"
 collection:  journals
 permalink: /publication/Diversified
-date: 2020-01-28
+date: 2023-01-28
 year: "2023"
 venue: " Inf. Fusion"
 city: 

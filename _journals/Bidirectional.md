@@ -2,7 +2,7 @@
 title: "Bidirectional Posture-Appearance Interaction Network for Driver Behavior Recognition"
 collection:  journals
 permalink: /publication/Bidirectional
-date: 2020-01-28
+date: 2022-01-28
 year: "2022"
 venue: "IEEE Trans. Intell. Transp. Syst."
 city: 
