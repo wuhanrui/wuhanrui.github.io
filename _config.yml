@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mingkui Tan's Homepage"
+title                    : "Hanrui Wu's Homepage"
 title_separator          : "-"
-name                     : &name "Mingkui Tan"
+name                     : &name "Hanrui Wu"
 description              : &description "personal description"
-url                      : https://tanmingkui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wuhanrui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tanmingkui/tanmingkui.github.io"
+repository               : "wuhanrui/wuhanrui.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mingkui Tan"
-  avatar           : "profile.png"
-  bio              : Research Scientist
+  name             : "Hanrui Wu"
+  avatar           : "hanrui.png"
+  bio              : Associate Professor
   location         : "Guangzhou, China"
-  employer         : "SCUT"
-  googlescholar    : "https://scholar.google.com.sg/citations?user=EVsoTGkAAAAJ&hl=en"
-  email            : "mingkuitan@scut.edu.cn"
+  employer         : "JNU"
+  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=r4A7bX4AAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "hrwu@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tanmingkui"
+  github           : "wuhanrui"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : https://orcid.org/my-orcid?orcid=0000-0003-3565-6635
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
