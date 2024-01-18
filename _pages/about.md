@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-< />
+<br />
     I am currently an Associate Professor with the Department of Computer Science, Jinan University, Guangzhou, China. I received my B.S. and Ph.D. degrees in the School of Software Engineering from South China University of Technology, China, in 2013 and 2020, respectively, advised by [Prof. Qingyao Wu](https://scholar.google.com.hk/citations?user=n6e_2IgAAAAJ&hl=zh-CN). I was an exchange student at the Hong Kong Baptist University in April-July, 2019, advised by [Prof. Michael K. Ng](https://www.math.hkbu.edu.hk/~mng/). I worked as a Postdoctoral Research Fellow with the Department of Mathematics, The University of Hong Kong, from 2020 to 2021, advised by [Prof. Michael K. Ng](https://www.math.hkbu.edu.hk/~mng/).  
     My current research interests include transfer learning, hypergraph learning, and their applications in recommendation systems and brain-computer interactions.
 
