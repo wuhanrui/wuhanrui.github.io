@@ -1,22 +1,28 @@
 # main links links
 main:
-  - title: "Conferences"
-    url: /conferences/
+  - title: "Publications"
+    url: /publications/
 
-  - title: "Journals"
-    url: /journals/
+  - title: "Grants"
+    url: /grants/
+
+  # - title: "Conferences"
+  #   url: /conferences/
+
+  # - title: "Journals"
+  #   url: /journals/
 
   # - title: "Talks"
   #   url: /talks/
 
-  - title: "My Students"
-    url: /laboratory_students/
+  # - title: "My Students"
+  #   url: /laboratory_students/
 
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
 
-  - title: "Join us"
-    url: /join_us/
+  # - title: "Join us"
+  #   url: /join_us/
 
         # - title: "Portfolio"
   #   url: /portfolio/
