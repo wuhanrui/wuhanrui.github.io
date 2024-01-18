@@ -34,8 +34,11 @@ Publications
 \[\]. **Hanrui Wu**, Michael K. Ng. Multiple Graphs and Low-rank Embedding for Multi-source Heterogeneous Domain Adaptation. ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2022, 16(4), 1-25. \[CCF-B, IF: 4.3\] 
 \[5\]. **Hanrui Wu**, Qingyao Wu, Michael K. Ng. Knowledge Preserving and Distribution Alignment for Heterogeneous Domain Adaptation. ACM Transactions on Information Systems (**TOIS**), 2022, 40(1), 1-29. [CCF-A, IF: 5.6\]  
 \[6\]. **Hanrui Wu**, Hong Zhu, Yuguang Yan, Jiaju Wu, Yifan Zhang, Michael K. Ng. Heterogeneous Domain Adaptation by Information Capturing and Distribution Matching. IEEE Transactions on Image Processing (**TIP**), 2021 30, 6364-6376. \[CCF-A, IF: 11.041\]
-\[\]. **Hanrui Wu**, Yuguang Yan, Sentao Chen, Xiangkang Huang, Qingyao Wu, Michael K. Ng, Joint Visual and Semantic Optimization for Zero-shot Learning. Knowledge-Based Systems (**KBS**), 2021, 215: 106773. \[CCF-C, IF: 8.139\]
-
-
+\[\]. **Hanrui Wu**, Yuguang Yan, Sentao Chen, Xiangkang Huang, Qingyao Wu, Michael K. Ng, Joint Visual and Semantic Optimization for Zero-shot Learning. Knowledge-Based Systems (**KBS**), 2021, 215, 106773.  
+\[\]. **Hanrui Wu**, Yuguang Yan, Michael K. Ng, Qingyao Wu. Domain-attention Conditional Wasserstein Distance for Multi-source Domain Adaptation. ACM Transactions on Intelligent Systems and Technology (**TIST**), 2020, 11(4), 1-19.  
+\[\]. **Hanrui Wu**, Yuguang Yan, Yuzhong Ye, Michael K. Ng, Qingyao Wu. Geometric Knowledge Embedding for Unsupervised Domain Adaptation. Knowledge-Based Systems (**KBS**), 2020, 191, 105155.  
+\[\]. **Hanrui Wu**, Yuguang Yan, Yuzhong Ye, Huaqing Min, Michael K. Ng, Qingyao Wu. Online Heterogeneous Transfer Learning by Knowledge Transition. ACM Transactions on Intelligent Systems and Technology (**TIST**), 2019, 10(3), 1-19.  
+\[\]. Qingyao Wu, Xiaoming Zhou, Yuguang Yan, **Hanrui Wu**, Huaqing Min, Online Transfer Learning by Leveraging Multiple Source Domains. Knowledge and Information Systems (**KAIS**), 2017, 52(3), 687-707. \[corresponding author, CCF-B, IF: 2.531\]  
+\[\]. Qingyao Wu, **Hanrui Wu**, Xiaoming Zhou, Mingkui Tan, Yonghui Xu, Yuguang Yan, Tianyong Hao, Online Transfer Learning with Multiple Homogeneous or Heterogeneous Sources. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2017, 29(7), 1494-1507. \[co-first author, CCF-A, IF: 9.235\]  
 
 
