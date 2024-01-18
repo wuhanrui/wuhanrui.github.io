@@ -14,7 +14,7 @@ redirect_from:
 Selected Publications
 ----------
 \[1\]. **Hanrui Wu**, Andy Yip, Jinyi Long, Jia Zhang, Michael K. Ng. Simplicial Complex Neural Networks. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024, 46(1), 561-575. \[CCF-A, IF: 23.6\]  
-\[2\]. **Hanrui Wu**, Yuguang Yan, Michael K. Ng. Hypergraph Collaborative Network on Vertices and Hyperedges. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2023, 45(3), 3245-3258. \[CCF-A, IF: 23.6\]
+\[2\]. **Hanrui Wu**, Yuguang Yan, Michael K. Ng. Hypergraph Collaborative Network on Vertices and Hyperedges. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2023, 45(3), 3245-3258. \[CCF-A, IF: 23.6\] \[[code](https://github.com/wuhanrui/HCoN)\]
 
 Publications
 ----------
@@ -26,7 +26,7 @@ Publications
 \[19\]. Sentao Chen, Zheng Lin, **Hanrui Wu**. Riemannian Representation Learning for Multi-Source Domain Adaptation. Pattern Recognition (**PR**), 2023, 137, 109271. \[CCF-B, IF: 8.0\]  
 \[18\]. Zhenpeng Guo, Huixian Zheng, **Hanrui Wu**, Jia Zhang, Guoxu Zhou, Jinyi Long. Transferable Multi-modal Fusion in Knee Angles and Gait Phases for Their Continuous Prediction. Journal of Neural Engineering (**JNE**), 2023, 20(3).  
 \[17\]. Jia Zhang, **Hanrui Wu**, Min Jiang, Jinghua Liu, Shaozi Li, Yong Tang, Jinyi Long. Group-preserving Label-specific Feature Selection for Multi-label Learning. Expert Systems with Applications (**ESWA**), 2023, 213, 118861.  
-\[16\]. **Hanrui Wu**, Yuguang Yan, Michael K. Ng. Hypergraph Collaborative Network on Vertices and Hyperedges. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2023, 45(3), 3245-3258. \[CCF-A, IF: 23.6\]  
+\[16\]. **Hanrui Wu**, Yuguang Yan, Michael K. Ng. Hypergraph Collaborative Network on Vertices and Hyperedges. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2023, 45(3), 3245-3258. \[CCF-A, IF: 23.6\] \[[code](https://github.com/wuhanrui/HCoN)\]  
 \[15\]. **Hanrui Wu**, Jinyi Long, Nuosi Li, Dahai Yu, Michael K. Ng. Adversarial Auto-encoder Domain Adaptation for Cold-start Recommendation with Positive and Negative Hypergraphs. ACM Transactions on Information Systems (**TOIS**), 2023, 41(2), 1-25. [CCF-A, IF: 5.6\]  
 \[14\]. **Hanrui Wu**, Yuguang Yan, Guosheng Lin, Min Yang, Michael K. Ng, Qingyao Wu. Iterative Refinement for Multi-source Visual Domain Adaptation. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2022, 34(6), 2810-2823. [CCF-A, IF: 8.9\]  
 \[13\]. Yuguang Yan, **Hanrui Wu**, Yuzhong Ye, Chaoyang Bi, Min Lu, Dapeng Liu, Qingyao Wu, Michael K. Ng. Transferable Feature Selection for Unsupervised Domain Adaptation. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2022, 34(11), 5536-5551. [CCF-A, IF: 8.9\]  
