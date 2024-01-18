@@ -1,7 +1,7 @@
 ---
 title: "Simplicial Complex Neural Networks"
 collection: publications
-permalink: /publication/SCN
+permalink: /publications/SCN
 date: 2024-01
 venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://ieeexplore.ieee.org/abstract/document/10285604)'
