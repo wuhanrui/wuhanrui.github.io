@@ -38,6 +38,8 @@ Publications
 \[\]. **Hanrui Wu**, Yuguang Yan, Michael K. Ng, Qingyao Wu. Domain-attention Conditional Wasserstein Distance for Multi-source Domain Adaptation. ACM Transactions on Intelligent Systems and Technology (**TIST**), 2020, 11(4), 1-19.  
 \[\]. **Hanrui Wu**, Yuguang Yan, Yuzhong Ye, Michael K. Ng, Qingyao Wu. Geometric Knowledge Embedding for Unsupervised Domain Adaptation. Knowledge-Based Systems (**KBS**), 2020, 191, 105155.  
 \[\]. **Hanrui Wu**, Yuguang Yan, Yuzhong Ye, Huaqing Min, Michael K. Ng, Qingyao Wu. Online Heterogeneous Transfer Learning by Knowledge Transition. ACM Transactions on Intelligent Systems and Technology (**TIST**), 2019, 10(3), 1-19.  
+\[\]. Yuguang Yan, Wen Li, **Hanrui Wu**, Huaqing Min, Mingkui Tan, Qingyao Wu. Semi-Supervised Optimal Transport for Heterogeneous Domain Adaptation. International Joint Conference on Artificial Intelligence (**IJCAI**), 2018, 7, 2969-2975. \[CCF-A\]  
+\[\]. Yuguang Yan, Wen Li, Michael K. Ng, Mingkui Tan, **Hanrui Wu**, Huaqing Min, Qingyao Wu. Learning Discriminative Correlation Subspace for Heterogeneous Domain Adaptation. International Joint Conference on Artificial Intelligence (**IJCAI**), 2017, 3252-3258. \[CCF-A\]  
 \[\]. Qingyao Wu, Xiaoming Zhou, Yuguang Yan, **Hanrui Wu**, Huaqing Min, Online Transfer Learning by Leveraging Multiple Source Domains. Knowledge and Information Systems (**KAIS**), 2017, 52(3), 687-707. \[corresponding author, CCF-B, IF: 2.531\]  
 \[\]. Qingyao Wu, **Hanrui Wu**, Xiaoming Zhou, Mingkui Tan, Yonghui Xu, Yuguang Yan, Tianyong Hao, Online Transfer Learning with Multiple Homogeneous or Heterogeneous Sources. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2017, 29(7), 1494-1507. \[co-first author, CCF-A, IF: 9.235\]  
 
