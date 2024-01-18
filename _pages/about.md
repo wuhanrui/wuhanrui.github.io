@@ -14,7 +14,16 @@ redirect_from:
 Selected Publications
 ----------
 \[1\]. **Hanrui Wu**, Andy Yip, Jinyi Long, Jia Zhang, Michael K. Ng. Simplicial Complex Neural Networks. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024, 46(1), 561-575.  
-\[2\]. **Hanrui Wu**, Yuguang Yan, Michael K. Ng. Hypergraph Collaborative Network on Vertices and Hyperedges. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2023, 45(3), 3245-3258.  
+\[2\]. **Hanrui Wu**, Yuguang Yan, Michael K. Ng. Hypergraph Collaborative Network on Vertices and Hyperedges. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2023, 45(3), 3245-3258.
+
+Publications
+----------
+\[1\]. **Hanrui Wu**, Andy Yip, Jinyi Long, Jia Zhang, Michael K. Ng. Simplicial Complex Neural Networks. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024, 46(1), 561-575.  
+\[2\]. **Hanrui Wu**, Nuosi Li, Jia Zhang, Sentao Chen, Michael K. Ng, Jinyi Long. Collaborative Contrastive Learning for Hypergraph Node Classification (**PR**), 2024, 146, 109995.  
+\[3\]. Michael K. Ng, **Hanrui Wu**, Andy, Yip. Stability and Generalization of Hypergraph Collaborative Networks. Machine Intelligence Research (MIR), 2024, 21(1), 184-196.  
+\[4\]. **Hanrui Wu**, Nuosi Li, Ka Ho Kwok, Xuheng Cai, Jia Zhang, Jinyi Long, Michael K. Ng. Feature Matching Machine for Cold-start Recommendation. IEEE Transactions on Services Computing (**TSC**), 2023, early access.  
+
+**Hanrui Wu**, Yuguang Yan, Michael K. Ng. Hypergraph Collaborative Network on Vertices and Hyperedges. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2023, 45(3), 3245-3258.  
 \[3\]. **Hanrui Wu**, Yuguang Yan, Guosheng Lin, Min Yang, Michael K. Ng, Qingyao Wu. Iterative Refinement for Multi-source Visual Domain Adaptation. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2022, 34(6), 2810-2823.  
 \[4\]. **Hanrui Wu**, Jinyi Long, Nuosi Li, Dahai Yu, Michael K. Ng. Adversarial Auto-encoder Domain Adaptation for Cold-start Recommendation with Positive and Negative Hypergraphs. ACM Transactions on Information Systems (**TOIS**), 2023, 41(2), 1-25.  
 \[5\]. **Hanrui Wu**, Qingyao Wu, Michael K. Ng. Knowledge Preserving and Distribution Alignment for Heterogeneous Domain Adaptation. ACM Transactions on Information Systems (**TOIS**), 2022, 40(1), 1-29.  
