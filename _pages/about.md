@@ -17,7 +17,7 @@ Selected Publications
 \[1\]. **Hanrui Wu**, Andy Yip, Jinyi Long, Jia Zhang, Michael K. Ng. Simplicial Complex Neural Networks. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024, 46(1), 561-575. \[CCF-A, IF: 23.6\]  
 \[2\]. **Hanrui Wu**, Yuguang Yan, Michael K. Ng. Hypergraph Collaborative Network on Vertices and Hyperedges. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2023, 45(3), 3245-3258. \[CCF-A, IF: 23.6\] \[[code](https://github.com/wuhanrui/HCoN)\]
 
-Publications
+Publication Lists
 ----------
 \[24\]. **Hanrui Wu**, Andy Yip, Jinyi Long, Jia Zhang, Michael K. Ng. Simplicial Complex Neural Networks. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024, 46(1), 561-575. \[CCF-A, IF: 23.6\]  
 \[23\]. **Hanrui Wu**, Nuosi Li, Jia Zhang, Sentao Chen, Michael K. Ng, Jinyi Long. Collaborative Contrastive Learning for Hypergraph Node Classification. Pattern Recognition (**PR**), 2024, 146, 109995. \[CCF-B, IF: 8.0\]  
@@ -44,7 +44,7 @@ Publications
 \[02\]. Qingyao Wu, Xiaoming Zhou, Yuguang Yan, **Hanrui Wu**, Huaqing Min, Online Transfer Learning by Leveraging Multiple Source Domains. Knowledge and Information Systems (**KAIS**), 2017, 52(3), 687-707. \[corresponding author, CCF-B, IF: 2.531\]  
 \[01\]. Qingyao Wu, **Hanrui Wu**, Xiaoming Zhou, Mingkui Tan, Yonghui Xu, Yuguang Yan, Tianyong Hao, Online Transfer Learning with Multiple Homogeneous or Heterogeneous Sources. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2017, 29(7), 1494-1507. \[co-first author, CCF-A, IF: 9.235\]
 
-Grants
+Selected Grants
 ----------
 \[1\]. Cold-start Recommendation Systems based on Transfer Learning. National Natural Science Foundation of China (2023-2025), PI  
 \[2\]. Multi-source Transfer Learning and Its Applications in Brain-computer Interfaces. Young Talent Support Project of Guangzhou Association for Science and Technology (2023-2024), PI
