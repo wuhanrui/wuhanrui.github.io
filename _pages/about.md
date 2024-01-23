@@ -17,7 +17,7 @@ Selected Publications
 \[1\]. **Hanrui Wu**, Andy Yip, Jinyi Long, Jia Zhang, Michael K. Ng. Simplicial Complex Neural Networks. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024, 46(1), 561-575. \[CCF-A, IF: 23.6\]  
 \[2\]. **Hanrui Wu**, Yuguang Yan, Michael K. Ng. Hypergraph Collaborative Network on Vertices and Hyperedges. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2023, 45(3), 3245-3258. \[CCF-A, IF: 23.6\] \[[code](https://github.com/wuhanrui/HCoN)\]
 
-Publication Lists
+Publication List
 ----------
 \[24\]. **Hanrui Wu**, Andy Yip, Jinyi Long, Jia Zhang, Michael K. Ng. Simplicial Complex Neural Networks. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024, 46(1), 561-575. \[CCF-A, IF: 23.6\]  
 \[23\]. **Hanrui Wu**, Nuosi Li, Jia Zhang, Sentao Chen, Michael K. Ng, Jinyi Long. Collaborative Contrastive Learning for Hypergraph Node Classification. Pattern Recognition (**PR**), 2024, 146, 109995. \[CCF-B, IF: 8.0\]  
