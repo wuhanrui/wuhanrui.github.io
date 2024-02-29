@@ -19,7 +19,7 @@ Selected Publications
 
 Publication List
 ----------
-\[25\]. **Hanrui Wu**, Lei Tian, Yanxin Wu,  Jia Zhang, Michael K. Ng, Jinyi Long.  
+\[25\]. **Hanrui Wu**, Lei Tian, Yanxin Wu, Jia Zhang, Michael K. Ng, Jinyi Long.  
 \[24\]. **Hanrui Wu**, Andy Yip, Jinyi Long, Jia Zhang, Michael K. Ng. Simplicial Complex Neural Networks. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024, 46(1), 561-575. \[CCF-A, IF: 23.6\]  
 \[23\]. **Hanrui Wu**, Nuosi Li, Jia Zhang, Sentao Chen, Michael K. Ng, Jinyi Long. Collaborative Contrastive Learning for Hypergraph Node Classification. Pattern Recognition (**PR**), 2024, 146, 109995. \[CCF-B, IF: 8.0\]  
 \[22\]. Michael K. Ng, **Hanrui Wu**, Andy, Yip. Stability and Generalization of Hypergraph Collaborative Networks. Machine Intelligence Research (MIR), 2024, 21(1), 184-196.  
