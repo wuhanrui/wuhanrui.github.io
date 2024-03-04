@@ -19,8 +19,9 @@ Selected Publications
 
 Publication List
 ----------
-\[25\]. **Hanrui Wu**, Andy Yip, Jinyi Long, Jia Zhang, Michael K. Ng. Simplicial Complex Neural Networks. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024, 46(1), 561-575. \[CCF-A, IF: 23.6\]  
-\[24\]. **Hanrui Wu**, Lei Tian, Yanxin Wu, Jia Zhang, Michael K. Ng, Jinyi Long. Transferable Graph Auto-Encoders for Cross-network Node Classification. Pattern Recognition (**PR**), 2024, 150, 110334. \[CCF-B, IF: 8.0\]  
+\[26\]. **Hanrui Wu**, Andy Yip, Jinyi Long, Jia Zhang, Michael K. Ng. Simplicial Complex Neural Networks. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024, 46(1), 561-575. \[CCF-A, IF: 23.6\]  
+\[25\]. **Hanrui Wu**, Lei Tian, Yanxin Wu, Jia Zhang, Michael K. Ng, Jinyi Long. Transferable Graph Auto-Encoders for Cross-network Node Classification. Pattern Recognition (**PR**), 2024, 150, 110334. \[CCF-B, IF: 8.0\]  
+\[24\]. Guodong Du, Jia Zhang, Ning Zhang, **Hanrui Wu**, Peiliang Wu, Shaozi Li. Semi-supervised imbalanced multi-label classification with label propagation. Pattern Recognition (**PR**), 2024, 150, 110358. \[CCF-B, IF: 8.0\]  
 \[23\]. **Hanrui Wu**, Nuosi Li, Jia Zhang, Sentao Chen, Michael K. Ng, Jinyi Long. Collaborative Contrastive Learning for Hypergraph Node Classification. Pattern Recognition (**PR**), 2024, 146, 109995. \[CCF-B, IF: 8.0\]  
 \[22\]. Michael K. Ng, **Hanrui Wu**, Andy, Yip. Stability and Generalization of Hypergraph Collaborative Networks. Machine Intelligence Research (MIR), 2024, 21(1), 184-196.  
 \[21\]. **Hanrui Wu**, Nuosi Li, Ka Ho Kwok, Xuheng Cai, Jia Zhang, Jinyi Long, Michael K. Ng. Feature Matching Machine for Cold-start Recommendation. IEEE Transactions on Services Computing (**TSC**), 2024, 17(1), 98-112. \[CCF-A, IF: 8.1\]  
