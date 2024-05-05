@@ -19,6 +19,7 @@ Selected Publications
 
 Publication List
 ----------
+\[28\]. **Hanrui Wu**, Yanxin Wu, Nuosi Li, Min Yang, Jia Zhang, Michael K. Ng, Jinyi Long. High-order Proximity and Relation Analysis for Cross-network Heterogeneous Node Classification. Machine Learning (**ML**), 2024. \[CCF-B, IF: 7.5\]  
 \[27\]. **Hanrui Wu**, Andy Yip, Jinyi Long, Jia Zhang, Michael K. Ng. Simplicial Complex Neural Networks. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024, 46(1), 561-575. \[CCF-A, IF: 23.6\]  
 \[26\]. Yuguang Yan, Yuanlin Chen, Shibo Wang, **Hanrui Wu**, Ruichu Cai. Hypergraph Joint Representation Learning for Hypervertices and Hyperedges via Cross Expansion. Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2024, 38(8), 9232-9240. \[CCF-A\]  
 \[25\]. **Hanrui Wu**, Lei Tian, Yanxin Wu, Jia Zhang, Michael K. Ng, Jinyi Long. Transferable Graph Auto-Encoders for Cross-network Node Classification. Pattern Recognition (**PR**), 2024, 150, 110334. \[CCF-B, IF: 8.0\]  
