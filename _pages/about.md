@@ -19,7 +19,7 @@ Selected Publications
 
 Publication List
 ----------
-\[30\]. **Hanrui Wu**, Yanxin Wu, Nuosi Li, Min Yang, Jia Zhang, Michael K. Ng, Jinyi Long. High-order Proximity and Relation Analysis for Cross-network Heterogeneous Node Classification. Machine Learning (**ML**), 2024. \[CCF-B, IF: 7.5\] \[[code](https://github.com/wuhanrui/HoPRA)\]  
+\[30\]. **Hanrui Wu**, Yanxin Wu, Nuosi Li, Min Yang, Jia Zhang, Michael K. Ng, Jinyi Long. High-order Proximity and Relation Analysis for Cross-network Heterogeneous Node Classification. Machine Learning (**ML**), 2024, 1-26. \[CCF-B, IF: 7.5\] \[[code](https://github.com/wuhanrui/HoPRA)\]  
 \[29\]. **Hanrui Wu**, Andy Yip, Jinyi Long, Jia Zhang, Michael K. Ng. Simplicial Complex Neural Networks. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024, 46(1), 561-575. \[CCF-A, IF: 23.6\]  
 \[28\]. **Hanrui Wu**, Qinmei Xie, Zhuliang Yu, Jia Zhang, Siwei Liu, Jinyi Long. Unsupervised Heterogeneous Domain Adaptation for EEG Classification. Journal of Neural Engineering (**JNE**), 2024. \[IF: 4.0\]  
 \[27\]. Guangliang He, Zhen Zhang, **Hanrui Wu**, Sanchuan Luo, Yudong Liu. KGCNA: Knowledge Graph Collaborative Neighbor Awareness Network for Recommendation. IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**), 2024. \[corresponding author, IF: 5.3\]  
