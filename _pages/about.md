@@ -19,6 +19,8 @@ Selected Publications
 
 Publication List
 ----------
+\[33\]. Jia Zhang, Jinglong Fang, Siwei Liu, Dezheng Liu, **Hanrui Wu**, Jinyi Long. Towards Cross-Brain Computer Interface: A Prototype-Supervised Adversarial Transfer Learning Approach with Multiple Sources. IEEE Transactions on Instrumentation and Measurement (**TIM**), 2024. \[IF: 5.6\]  
+\[32\]. Yiting Li, Jia Zhang, **Hanrui Wu**, Guodong Du, Jinyi Long. Consistent and specific multi-view multi-label learning with correlation information. Information Sciences (**INS**), 2024, 121395. \[CCF-B\]  
 \[31\]. **Hanrui Wu**, Zhengyan Ma, Zhenpeng Guo, Yanxin Wu, Jia Zhang, Guoxu Zhou, Jinyi Long. Online Privacy-Preserving EEG Classification by Source-Free Transfer Learning. IEEE Transactions on Neural Systems and Rehabilitation Engineering (**TNSRE**), 2024, 32, 3059-3070. \[IF: 4.8\]  
 \[30\]. **Hanrui Wu**, Yanxin Wu, Nuosi Li, Min Yang, Jia Zhang, Michael K. Ng, Jinyi Long. High-order Proximity and Relation Analysis for Cross-network Heterogeneous Node Classification. Machine Learning (**ML**), 2024, 1-26. \[CCF-B, IF: 7.5\] \[[code](https://github.com/wuhanrui/HoPRA)\]  
 \[29\]. **Hanrui Wu**, Andy Yip, Jinyi Long, Jia Zhang, Michael K. Ng. Simplicial Complex Neural Networks. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024, 46(1), 561-575. \[CCF-A, IF: 23.6\]  
