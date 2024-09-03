@@ -19,10 +19,11 @@ Selected Publications
 
 Publication List
 ----------
+\[31\]. **Hanrui Wu**, Zhengyan Ma, Zhenpeng Guo, Yanxin Wu, Jia Zhang, Guoxu Zhou, Jinyi Long. Online Privacy-Preserving EEG Classification by Source-Free Transfer Learning. IEEE Transactions on Neural Systems and Rehabilitation Engineering (**TNSRE**), 2024, 32, 3059-3070. \[IF: 4.8\]  
 \[30\]. **Hanrui Wu**, Yanxin Wu, Nuosi Li, Min Yang, Jia Zhang, Michael K. Ng, Jinyi Long. High-order Proximity and Relation Analysis for Cross-network Heterogeneous Node Classification. Machine Learning (**ML**), 2024, 1-26. \[CCF-B, IF: 7.5\] \[[code](https://github.com/wuhanrui/HoPRA)\]  
 \[29\]. **Hanrui Wu**, Andy Yip, Jinyi Long, Jia Zhang, Michael K. Ng. Simplicial Complex Neural Networks. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024, 46(1), 561-575. \[CCF-A, IF: 23.6\]  
-\[28\]. **Hanrui Wu**, Qinmei Xie, Zhuliang Yu, Jia Zhang, Siwei Liu, Jinyi Long. Unsupervised Heterogeneous Domain Adaptation for EEG Classification. Journal of Neural Engineering (**JNE**), 2024. \[IF: 4.0\]  
-\[27\]. Guangliang He, Zhen Zhang, **Hanrui Wu**, Sanchuan Luo, Yudong Liu. KGCNA: Knowledge Graph Collaborative Neighbor Awareness Network for Recommendation. IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**), 2024. \[corresponding author, IF: 5.3\]  
+\[28\]. **Hanrui Wu**, Qinmei Xie, Zhuliang Yu, Jia Zhang, Siwei Liu, Jinyi Long. Unsupervised Heterogeneous Domain Adaptation for EEG Classification. Journal of Neural Engineering (**JNE**), 2024, 21(4), 046018. \[IF: 4.0\]  
+\[27\]. Guangliang He, Zhen Zhang, **Hanrui Wu**, Sanchuan Luo, Yudong Liu. KGCNA: Knowledge Graph Collaborative Neighbor Awareness Network for Recommendation. IEEE Transactions on Emerging Topics in Computational Intelligence (**TETCI**), 2024, 8(4), 2736-2748. \[corresponding author, IF: 5.3\]  
 \[26\]. Yuguang Yan, Yuanlin Chen, Shibo Wang, **Hanrui Wu**, Ruichu Cai. Hypergraph Joint Representation Learning for Hypervertices and Hyperedges via Cross Expansion. Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2024, 38(8), 9232-9240. \[CCF-A\]  
 \[25\]. **Hanrui Wu**, Lei Tian, Yanxin Wu, Jia Zhang, Michael K. Ng, Jinyi Long. Transferable Graph Auto-Encoders for Cross-network Node Classification. Pattern Recognition (**PR**), 2024, 150, 110334. \[CCF-B, IF: 8.0\]  
 \[24\]. Guodong Du, Jia Zhang, Ning Zhang, **Hanrui Wu**, Peiliang Wu, Shaozi Li. Semi-supervised imbalanced multi-label classification with label propagation. Pattern Recognition (**PR**), 2024, 150, 110358. \[CCF-B, IF: 8.0\]  
