@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <br />
-    I am currently an Associate Professor with the Department of Computer Science, Jinan University, Guangzhou, China. I received my B.S. and Ph.D. degrees in the School of Software Engineering from South China University of Technology, China, in 2013 and 2020, respectively, advised by [Prof. Qingyao Wu](https://scholar.google.com.hk/citations?user=n6e_2IgAAAAJ&hl=zh-CN). I was an exchange student at the Hong Kong Baptist University in April-July, 2019, advised by [Prof. Michael K. Ng](https://www.math.hkbu.edu.hk/~mng/). I worked as a Postdoctoral Research Fellow with the Department of Mathematics, The University of Hong Kong, from 2020 to 2021, advised by [Prof. Michael K. Ng](https://www.math.hkbu.edu.hk/~mng/).  
+    I am currently an Associate Professor with the Department of Computer Science, Jinan University, Guangzhou, China. I received my B.S. and Ph.D. degrees in the School of Software Engineering from South China University of Technology, China, in 2013 and 2020, respectively, advised by [Prof. Qingyao Wu](https://scholar.google.com.hk/citations?user=n6e_2IgAAAAJ&hl=zh-CN). I was an exchange student at the Hong Kong Baptist University in April-July, 2019, advised by [Prof. Michael K. Ng](https://sites.google.com/view/michael-ng-math/home). I worked as a Postdoctoral Research Fellow with the Department of Mathematics, The University of Hong Kong, from 2020 to 2021, advised by [Prof. Michael K. Ng](https://sites.google.com/view/michael-ng-math/home).  
     My current research interests include (hyper)graph learning, transfer learning, and their applications.
 
 Selected Publications
