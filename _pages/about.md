@@ -19,7 +19,10 @@ Selected Publications
 
 Publication List
 ----------
-\[33\]. Jia Zhang, Jinglong Fang, Siwei Liu, Dezheng Liu, **Hanrui Wu**, Jinyi Long. Towards Cross-Brain Computer Interface: A Prototype-Supervised Adversarial Transfer Learning Approach with Multiple Sources. IEEE Transactions on Instrumentation and Measurement (**TIM**), 2024. \[IF: 5.6\]  
+\[36\]. **Hanrui Wu**, Yanxin Wu, Nuosi Li, Jia Zhang, Yonghui Xu, Michael K. Ng, Jinyi Long. Cold-start User Recommendation via Heterogeneous Domain Adaptation. ACM Transactions on Information Systems (**TOIS**), 2025. \[Just Accepted, CCF-A, IF: 9.1\]  
+\[35\]. Qianzhi Ye, Jia Zhang, **Hanrui Wu**, Tianlong Gu, CL Philip Chen, Jinyi Long. SMLE: Semi-Supervised Multi-Label Learning with Label Enhancement. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2025. \[Early Access, CCF-A, IF: 10.4\]  
+\[34\]. Jia Zhang, Siwei Liu, **Hanrui Wu**, Zhe Zhang, Jinyi Long. EEG Feature Selection in Emotion Recognition Using a Fuzzy Information-Theoretic Based Optimization Approach. IEEE Transactions on Fuzzy Systems (**TFS**), 2025. \[Early Access, CCF-B, IF: 11.9\]  
+\[33\]. Jia Zhang, Jinglong Fang, Siwei Liu, Dezheng Liu, **Hanrui Wu**, Jinyi Long. Towards Cross-Brain Computer Interface: A Prototype-Supervised Adversarial Transfer Learning Approach with Multiple Sources. IEEE Transactions on Instrumentation and Measurement (**TIM**), 2024, 73, 1-13. \[IF: 5.6\]  
 \[32\]. Yiting Li, Jia Zhang, **Hanrui Wu**, Guodong Du, Jinyi Long. Consistent and specific multi-view multi-label learning with correlation information. Information Sciences (**INS**), 2024, 121395. \[CCF-B\]  
 \[31\]. **Hanrui Wu**, Zhengyan Ma, Zhenpeng Guo, Yanxin Wu, Jia Zhang, Guoxu Zhou, Jinyi Long. Online Privacy-Preserving EEG Classification by Source-Free Transfer Learning. IEEE Transactions on Neural Systems and Rehabilitation Engineering (**TNSRE**), 2024, 32, 3059-3070. \[IF: 4.8\]  
 \[30\]. **Hanrui Wu**, Yanxin Wu, Nuosi Li, Min Yang, Jia Zhang, Michael K. Ng, Jinyi Long. High-order Proximity and Relation Analysis for Cross-network Heterogeneous Node Classification. Machine Learning (**ML**), 2024, 1-26. \[CCF-B, IF: 7.5\] \[[code](https://github.com/wuhanrui/HoPRA)\]  
