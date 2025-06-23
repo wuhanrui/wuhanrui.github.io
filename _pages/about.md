@@ -20,7 +20,7 @@ Selected Publications
 Publication List
 ----------
 \[36\]. **Hanrui Wu**, Yanxin Wu, Nuosi Li, Jia Zhang, Yonghui Xu, Michael K. Ng, Jinyi Long. Cold-start User Recommendation via Heterogeneous Domain Adaptation. ACM Transactions on Information Systems (**TOIS**), 2025. \[Just Accepted, CCF-A, IF: 9.1\]  
-&ensp; We demonstrate that cold-start user recommendation and heterogeneous domain adaptation share similar properties, and the cold-start user recommendation can be formulated as a heterogeneous domain adaptation problem.  
+&ensp; _We demonstrate that cold-start user recommendation and heterogeneous domain adaptation share similar properties, and the cold-start user recommendation can be formulated as a heterogeneous domain adaptation problem._  
 \[35\]. Qianzhi Ye, Jia Zhang, **Hanrui Wu**, Tianlong Gu, CL Philip Chen, Jinyi Long. SMLE: Semi-Supervised Multi-Label Learning with Label Enhancement. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2025. \[Early Access, CCF-A, IF: 10.4\] \[[code](https://github.com/JNU-IHCILab/SMLE)\]  
 \[34\]. Jia Zhang, Siwei Liu, **Hanrui Wu**, Zhe Zhang, Jinyi Long. EEG Feature Selection in Emotion Recognition Using a Fuzzy Information-Theoretic Based Optimization Approach. IEEE Transactions on Fuzzy Systems (**TFS**), 2025. \[Early Access, CCF-B, IF: 11.9\]  
 \[33\]. Jia Zhang, Jinglong Fang, Siwei Liu, Dezheng Liu, **Hanrui Wu**, Jinyi Long. Towards Cross-Brain Computer Interface: A Prototype-Supervised Adversarial Transfer Learning Approach with Multiple Sources. IEEE Transactions on Instrumentation and Measurement (**TIM**), 2024, 73, 1-13. \[IF: 5.6\]  
