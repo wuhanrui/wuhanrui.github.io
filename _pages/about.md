@@ -21,6 +21,7 @@ Publication List
 ----------
 \[36\]. **Hanrui Wu**, Yanxin Wu, Nuosi Li, Jia Zhang, Yonghui Xu, Michael K. Ng, Jinyi Long. Cold-start User Recommendation via Heterogeneous Domain Adaptation. ACM Transactions on Information Systems (**TOIS**), 2025. \[Just Accepted, CCF-A, IF: 9.1\] \[[code](https://github.com/wuhanrui/FDMA)\]  
 &ensp;&ensp; _We demonstrate that cold-start user recommendation and heterogeneous domain adaptation share similar properties, and the cold-start user recommendation can be formulated as a heterogeneous domain adaptation problem._  
+
 \[35\]. Qianzhi Ye, Jia Zhang, **Hanrui Wu**, Tianlong Gu, CL Philip Chen, Jinyi Long. SMLE: Semi-Supervised Multi-Label Learning with Label Enhancement. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2025. \[Early Access, CCF-A, IF: 10.4\] \[[code](https://github.com/JNU-IHCILab/SMLE)\]  
 \[34\]. Jia Zhang, Siwei Liu, **Hanrui Wu**, Zhe Zhang, Jinyi Long. EEG Feature Selection in Emotion Recognition Using a Fuzzy Information-Theoretic Based Optimization Approach. IEEE Transactions on Fuzzy Systems (**TFS**), 2025. \[Early Access, CCF-B, IF: 11.9\]  
 \[33\]. Jia Zhang, Jinglong Fang, Siwei Liu, Dezheng Liu, **Hanrui Wu**, Jinyi Long. Towards Cross-Brain Computer Interface: A Prototype-Supervised Adversarial Transfer Learning Approach with Multiple Sources. IEEE Transactions on Instrumentation and Measurement (**TIM**), 2024, 73, 1-13. \[IF: 5.6\]  
@@ -41,14 +42,14 @@ Publication List
 \[18\]. Zhenpeng Guo, Huixian Zheng, **Hanrui Wu**, Jia Zhang, Guoxu Zhou, Jinyi Long. Transferable Multi-modal Fusion in Knee Angles and Gait Phases for Their Continuous Prediction. Journal of Neural Engineering (**JNE**), 2023, 20(3).  
 \[17\]. Jia Zhang, **Hanrui Wu**, Min Jiang, Jinghua Liu, Shaozi Li, Yong Tang, Jinyi Long. Group-preserving Label-specific Feature Selection for Multi-label Learning. Expert Systems with Applications (**ESWA**), 2023, 213, 118861. \[[code](https://codeocean.com/capsule/1281687/tree/v1)\]  
 \[16\]. **Hanrui Wu**, Yuguang Yan, Michael K. Ng. Hypergraph Collaborative Network on Vertices and Hyperedges. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2023, 45(3), 3245-3258. \[CCF-A, IF: 23.6\] \[[code](https://github.com/wuhanrui/HCoN)\]  
-&ensp; _We demonstrate that the collaborative training between nodes and hyperedges layer-by-layer is effective for learning hypergraph representations.
+&ensp;&ensp; _We demonstrate that the collaborative training between nodes and hyperedges layer-by-layer is effective for learning hypergraph representations.
 People can use our model as a backbone for feature extraction._  
 
 \[15\]. **Hanrui Wu**, Jinyi Long, Nuosi Li, Dahai Yu, Michael K. Ng. Adversarial Auto-encoder Domain Adaptation for Cold-start Recommendation with Positive and Negative Hypergraphs. ACM Transactions on Information Systems (**TOIS**), 2023, 41(2), 1-25. [CCF-A, IF: 5.6\]  
 \[14\]. **Hanrui Wu**, Yuguang Yan, Guosheng Lin, Min Yang, Michael K. Ng, Qingyao Wu. Iterative Refinement for Multi-source Visual Domain Adaptation. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2022, 34(6), 2810-2823. [CCF-A, IF: 8.9\]  
 \[13\]. Yuguang Yan, **Hanrui Wu**, Yuzhong Ye, Chaoyang Bi, Min Lu, Dapeng Liu, Qingyao Wu, Michael K. Ng. Transferable Feature Selection for Unsupervised Domain Adaptation. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2022, 34(11), 5536-5551. [CCF-A, IF: 8.9\]  
 \[12\]. **Hanrui Wu**, Michael K. Ng. Hypergraph Convolution on Nodes-Hyperedges Network for Semi-supervised Node Classification. ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2022, 16(4), 1-19. \[CCF-B, IF: 4.3\] \[[code](https://github.com/wuhanrui/HCNH)\]  
-&ensp; _We propose a simple yet effective hypergraph auto-encoder model and demonstrate that both nodes and hyperedges are important for learning informative hypergraph representations.
+&ensp;&ensp; _We propose a simple yet effective hypergraph auto-encoder model and demonstrate that both nodes and hyperedges are important for learning informative hypergraph representations.
 People can use our model as a backbone for feature extraction._  
 
 \[11\]. **Hanrui Wu**, Michael K. Ng. Multiple Graphs and Low-rank Embedding for Multi-source Heterogeneous Domain Adaptation. ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2022, 16(4), 1-25. \[CCF-B, IF: 4.3\]  
