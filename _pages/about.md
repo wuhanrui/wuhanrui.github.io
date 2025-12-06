@@ -19,6 +19,7 @@ Selected Publications
 
 Publication List
 ----------
+\[37\]. Siwei Liu, Keyan Chen, Jia Zhang, Jinyi Long, **Hanrui Wu**. OSFTL-PL: Online source-free transfer learning with pseudo-labels for privacy-preserving EEG-based BCI. Biomedical Signal Processing and Control (**BSPC**), 2026, 114: 109326. \[corresponding author, IF: 4.9\]  
 \[36\]. **Hanrui Wu**, Yanxin Wu, Nuosi Li, Jia Zhang, Yonghui Xu, Michael K. Ng, Jinyi Long. Cold-start User Recommendation via Heterogeneous Domain Adaptation. ACM Transactions on Information Systems (**TOIS**), 2025, 43(5), 1-26. \[CCF-A, IF: 9.1\] \[[code](https://github.com/wuhanrui/FDMA)\]  
 &ensp;&ensp; _We demonstrate that cold-start user recommendation and heterogeneous domain adaptation share similar properties, and the cold-start user recommendation can be formulated as a heterogeneous domain adaptation problem._  
 
