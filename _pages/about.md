@@ -14,15 +14,15 @@ redirect_from:
 
 Selected Publications
 ----------
-\[1\]. **Hanrui Wu**, Yanxin Wu, Lei Tian, Zhao-Rong Lai, Jinyi Long, Michael K. Ng, C. L. Philip Chen. Local and High-order Consistency Coding and Adaptation for Cross-hypergraph Node Classification. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026. \[Accepted, CCF-A\] \[[data](https://github.com/wuhanrui/LHCCA)\]  
+\[1\]. **Hanrui Wu**, Yanxin Wu, Lei Tian, Zhao-Rong Lai, Jinyi Long, Michael K. Ng, C. L. Philip Chen. Local and High-order Consistency Coding and Adaptation for Cross-hypergraph Node Classification. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026. \[Accepted, CCF-A, IF: 20.4\] \[[data](https://github.com/wuhanrui/LHCCA)\]  
 \[2\]. **Hanrui Wu**, Andy Yip, Jinyi Long, Jia Zhang, Michael K. Ng. Simplicial Complex Neural Networks. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024, 46(1), 561-575. \[**ESI Highly Cited Paper**, CCF-A, IF: 23.6\]  
 \[3\]. **Hanrui Wu**, Yuguang Yan, Michael K. Ng. Hypergraph Collaborative Network on Vertices and Hyperedges. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2023, 45(3), 3245-3258. \[CCF-A, IF: 23.6\] \[[code](https://github.com/wuhanrui/HCoN)\]
 
 Publication List
 ----------
-\[38\]. **Hanrui Wu**, Yanxin Wu, Lei Tian, Zhao-Rong Lai, Jinyi Long, Michael K. Ng, C. L. Philip Chen. Local and High-order Consistency Coding and Adaptation for Cross-hypergraph Node Classification. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026. \[Accepted, CCF-A\] \[[data](https://github.com/wuhanrui/LHCCA)\]  
-\[37\]. Siwei Liu, Keyan Chen, Jia Zhang, Jinyi Long, **Hanrui Wu**. OSFTL-PL: Online source-free transfer learning with pseudo-labels for privacy-preserving EEG-based BCI. Biomedical Signal Processing and Control (**BSPC**), 2026, 114: 109326. \[corresponding author, IF: 4.9\]  
-\[36\]. **Hanrui Wu**, Yanxin Wu, Nuosi Li, Jia Zhang, Yonghui Xu, Michael K. Ng, Jinyi Long. Cold-start User Recommendation via Heterogeneous Domain Adaptation. ACM Transactions on Information Systems (**TOIS**), 2025, 43(5), 1-26. \[CCF-A, IF: 9.1\] \[[code](https://github.com/wuhanrui/FDMA)\]  
+\[38\]. **Hanrui Wu**, Yanxin Wu, Lei Tian, Zhao-Rong Lai, Jinyi Long, Michael K. Ng, C. L. Philip Chen. Local and High-order Consistency Coding and Adaptation for Cross-hypergraph Node Classification. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026. \[Accepted, CCF-A, IF: 20.4\] \[[data](https://github.com/wuhanrui/LHCCA)\]  
+\[37\]. Siwei Liu, Keyan Chen, Jia Zhang, Jinyi Long, **Hanrui Wu**. OSFTL-PL: Online source-free transfer learning with pseudo-labels for privacy-preserving EEG-based BCI. Biomedical Signal Processing and Control (**BSPC**), 2026, 114: 109326. \[corresponding author, IF: 5.7\]  
+\[36\]. **Hanrui Wu**, Yanxin Wu, Nuosi Li, Jia Zhang, Yonghui Xu, Michael K. Ng, Jinyi Long. Cold-start User Recommendation via Heterogeneous Domain Adaptation. ACM Transactions on Information Systems (**TOIS**), 2025, 43(5), 1-26. \[CCF-A, IF: 11.2\] \[[code](https://github.com/wuhanrui/FDMA)\]  
 &ensp;&ensp; _We demonstrate that cold-start user recommendation and heterogeneous domain adaptation share similar properties, and the cold-start user recommendation can be formulated as a heterogeneous domain adaptation problem._  
 
 \[35\]. Qianzhi Ye, Jia Zhang, **Hanrui Wu**, Tianlong Gu, CL Philip Chen, Jinyi Long. SMLE: Semi-Supervised Multi-Label Learning with Label Enhancement. IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2025, 37(9), 5613-5626. \[CCF-A, IF: 10.4\] \[[code](https://github.com/JNU-IHCILab/SMLE)\]  
