@@ -76,7 +76,8 @@ Selected Grants
 Academic Services
 ----------
 \[1\]. Scientific Reports, Editorial Board Member (2025-)  
-\[2\]. Discover Computing, Guest Editor (2025-), [Call for papers](https://link.springer.com/collections/ggaehigfcb)  
-\[3\]. Electronics, Guest Editor (2024-)
+\[2\]. AI (MDPI), Editorial Board Member (2026-)  
+\[3\]. Discover Computing, Guest Editor (2025-), [Call for papers](https://link.springer.com/collections/ggaehigfcb)  
+\[4\]. Electronics, Guest Editor (2024-)
 
 <a href="https://info.flagcounter.com/iPmy"><img src="https://s11.flagcounter.com/count2/iPmy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
