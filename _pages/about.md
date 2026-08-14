@@ -14,14 +14,14 @@ redirect_from:
 
 Selected Publications
 ----------
-\[1\]. **Hanrui Wu**, Ge Zhang, Junkang Liao, Jia Zhang, Wei-Shi Zheng, Jinyi Long, Calibration-free Plug-and-Play EEG-based BCIs. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026. \[Accepted, CCF-A, IF: 20.4\]  
+\[1\]. **Hanrui Wu**, Ge Zhang, Junkang Liao, Jia Zhang, Wei-Shi Zheng, Jinyi Long. Calibration-free Plug-and-Play EEG-based BCIs. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026. \[Accepted, CCF-A, IF: 20.4\]  
 \[2\]. **Hanrui Wu**, Yanxin Wu, Lei Tian, Zhao-Rong Lai, Jinyi Long, Michael K. Ng, C. L. Philip Chen. Local and High-order Consistency Coding and Adaptation for Cross-hypergraph Node Classification. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026, 48(8), 9997-10011. \[CCF-A, IF: 20.4\] \[[data](https://github.com/wuhanrui/LHCCA)\]  
 \[3\]. **Hanrui Wu**, Andy Yip, Jinyi Long, Jia Zhang, Michael K. Ng. Simplicial Complex Neural Networks. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2024, 46(1), 561-575. \[**ESI Highly Cited Paper**, CCF-A, IF: 23.6\]  
 \[4\]. **Hanrui Wu**, Yuguang Yan, Michael K. Ng. Hypergraph Collaborative Network on Vertices and Hyperedges. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2023, 45(3), 3245-3258. \[CCF-A, IF: 23.6\] \[[code](https://github.com/wuhanrui/HCoN)\]
 
 Publication List
 ----------
-\[39\]. **Hanrui Wu**, Ge Zhang, Junkang Liao, Jia Zhang, Wei-Shi Zheng, Jinyi Long, Calibration-free Plug-and-Play EEG-based BCIs. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026. \[Accepted, CCF-A, IF: 20.4\]  
+\[39\]. **Hanrui Wu**, Ge Zhang, Junkang Liao, Jia Zhang, Wei-Shi Zheng, Jinyi Long. Calibration-free Plug-and-Play EEG-based BCIs. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026. \[Accepted, CCF-A, IF: 20.4\]  
 \[38\]. **Hanrui Wu**, Yanxin Wu, Lei Tian, Zhao-Rong Lai, Jinyi Long, Michael K. Ng, C. L. Philip Chen. Local and High-order Consistency Coding and Adaptation for Cross-hypergraph Node Classification. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026, 48(8), 9997-10011. \[CCF-A, IF: 20.4\] \[[data](https://github.com/wuhanrui/LHCCA)\]  
 \[37\]. Siwei Liu, Keyan Chen, Jia Zhang, Jinyi Long, **Hanrui Wu**. OSFTL-PL: Online source-free transfer learning with pseudo-labels for privacy-preserving EEG-based BCI. Biomedical Signal Processing and Control (**BSPC**), 2026, 114: 109326. \[corresponding author, IF: 5.7\]  
 \[36\]. **Hanrui Wu**, Yanxin Wu, Nuosi Li, Jia Zhang, Yonghui Xu, Michael K. Ng, Jinyi Long. Cold-start User Recommendation via Heterogeneous Domain Adaptation. ACM Transactions on Information Systems (**TOIS**), 2025, 43(5), 1-26. \[CCF-A, IF: 11.2\] \[[code](https://github.com/wuhanrui/FDMA)\]  
